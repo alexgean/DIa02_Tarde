@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Bem vindo à view Index</h1>
+        <h2>Desenvolvida em @DateTime.Now.ToShortDateString()</h2>
+        <hr />
+        <span><strong>Empresa:</strong>@ViewBag.Empresa</span> <br />
+        <span><strong>Endereço:</strong>@ViewData["endereco"]</span>
+    </div>
+</body>
+</html>

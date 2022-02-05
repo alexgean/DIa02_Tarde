@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIa02_Tarde", "DIa02_Tarde\DIa02_Tarde.csproj", "{EAC56972-9EC4-43AD-B2C8-AF2687FE6168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC56972-9EC4-43AD-B2C8-AF2687FE6168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC56972-9EC4-43AD-B2C8-AF2687FE6168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC56972-9EC4-43AD-B2C8-AF2687FE6168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC56972-9EC4-43AD-B2C8-AF2687FE6168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB464180-8C77-452B-BB68-A65F22D425FE}
+	EndGlobalSection
+EndGlobal
